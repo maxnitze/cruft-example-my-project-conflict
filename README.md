@@ -1,6 +1,6 @@
 # My Project with Merge Conflicts
 
-This is a sample repository created from the cookiecutter template at git@github.com:maxnitze/cruft-example-cookiecutter-template.git. You can find more information about cookiecutter at https://www.cookiecutter.io/.
+This is a sample repository created from the cookiecutter template at https://github.com/maxnitze/cruft-example-cookiecutter-template.git. You can find more information about cookiecutter at https://www.cookiecutter.io/.
 
 Cookiecutter templates are often used in combination with [cruft](https://cruft.github.io/cruft/) to track updates of the template in the downstream projects.
 
@@ -10,6 +10,6 @@ The content of this repository was initially generated with the following comman
 cruft create \
     --no-input \
     --extra-context '{ "project_name": "my-project-conflict", "project_display_name": "My Project with Merge Conflicts" }' \
-    git@github.com:maxnitze/cruft-example-cookiecutter-template.git
+    https://github.com/maxnitze/cruft-example-cookiecutter-template.git
 ```
 
