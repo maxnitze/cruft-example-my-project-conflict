@@ -1,0 +1,13 @@
+{
+  "template": "git@github.com:maxnitze/cruft-example-cookiecutter-template.git",
+  "commit": "5536d4fdb58ddb5c9b1dcf1eff05cc58ed2ddc38",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "my-project-conflict",
+      "project_display_name": "My Project with Merge Conflicts",
+      "_template": "git@github.com:maxnitze/cruft-example-cookiecutter-template.git"
+    }
+  },
+  "directory": null
+}
